@@ -5,10 +5,11 @@
 O projeto se compõe na elaboração de uma lógica de programação que gere um ID único para um crachá, a fim de que se possa gerar identificações em um ambiente empresarial. Primeiramente o usuário escolhe o tamanho de caracteres que o ID irá possuir, após isso uma numeração é gerada aleatoriamente, sendo possível copiar o ID gerado com um simples botão. O projeto se materializa a partir de meus estudos iniciais de react, bem como meu treinamento projetando nessa tecnologia que para mim é nova. 
 
 ## Vizualize a Página
-xxxxx
+![gerador de ir para crach](https://github.com/Clarc-Vasconcelos/Calculadora-de-IMC/assets/129234188/82932ce5-b4d8-4333-8d24-dbda600541ce)
+
 <br />
 
-<p>Para visualizar a página em ação, acesse este <a href='xxxx' target='_blank'>link</a>.</p>
+<p>Para visualizar a página em ação, acesse este <a href='https://gerador-de-id.vercel.app/' target='_blank'>link</a>.</p>
 
 ## Tecnologias Utilizadas
 <ul>
