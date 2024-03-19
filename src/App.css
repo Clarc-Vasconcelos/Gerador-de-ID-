@@ -1,0 +1,60 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 99vw;
+  max-height: 99vh;
+  border: solid 3px #fdfdfd;
+  border-radius: 24px;
+  background-color: rgba(8, 17, 58, 0.799);
+}
+
+h1 {
+  background-color: #1a1a1a;
+  min-width: 75vw;
+  padding: 3rem;
+  border-radius: 16px 16px 0 0;
+}
+
+.bigBox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  flex-direction: column;
+  gap: 2rem;
+  max-width: 98vw;
+  max-height: 94vh;
+  height: 97vh;
+  border: solid 3px #ffffff;
+
+  background-image: linear-gradient(to top right, rgb(12,22,168), rgb(0,047,902), rgba(123, 36, 222, 0.898) );
+
+  border-radius: 16px;
+  padding: 0.75rem;
+  margin: 0.75rem 0.8rem;
+}
+
+input {
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  margin-right: .5rem;
+}
+
+.boxInputAndBtnGenerate {
+  min-width: 32.5vw;
+  margin-bottom: 0;
+}
+
+.boxYourCracha {
+  padding: 0.75rem;
+  min-width: 32.5vw;
+  background-color: #1a1a1a;
+}
