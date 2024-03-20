@@ -21,7 +21,7 @@ O projeto se compõe na elaboração de uma lógica de programação que gere um
 
 ## Como Executar o Projeto
 <ul>
-<li>em sua máquina, faça um clone do meu projeto, com o comando `git clone` <link-do-repositório>".
+<li>em sua máquina, faça um clone do meu projeto, com o comando `git clone` + link-do-repositório".
 </li>
 <li>intale as dependências do projeto com o comando `npm install`.
 </li>
