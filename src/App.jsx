@@ -36,6 +36,7 @@ const App = () => {
   const generateAnother = () => {
     setInputNumber('')
     setBtnCopy('Copiar')
+    setCrachas('')
   }
   
   let yourCracha = `Seu ID único de crachá é ${crachas}`
